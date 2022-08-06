@@ -1,1 +1,1 @@
-# AlgorithmicTrading
+# Stock Trading System
